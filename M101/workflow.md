@@ -1,7 +1,4 @@
-# M101 – PixInsight Workflow (JPEG)
-
-## File Used
-**M101.jpg**
+# M101 – PixInsight Workflow
 
 ## Workflow
 - Clone image

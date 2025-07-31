@@ -1,9 +1,11 @@
 # M101
 
-Captured using the ZWO Seestar S50 or equivalent equipment. This entry uses an auto-generated workflow based on the file format.
+Captured images and processing steps for the M101 Deep Sky Object.
 
-## 📷 File
-**M101.jpg**
+## Files Included
+- Original image: N/A
+- Final edit: N/A
+- Processing collage: N/A
 
 ## Processing Workflow
-See `workflow.md` for step-by-step PixInsight processing adapted for .JPG source.
+See `workflow.md` for detailed image processing steps.

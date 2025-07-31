@@ -1,9 +1,11 @@
 # received2180059319088617
 
-Captured using the ZWO Seestar S50 or equivalent equipment. This entry uses an auto-generated workflow based on the file format.
+Captured images and processing steps for the received2180059319088617 Deep Sky Object.
 
-## 📷 File
-**received_2180059319088617.jpeg**
+## Files Included
+- Original image: N/A
+- Final edit: N/A
+- Processing collage: N/A
 
 ## Processing Workflow
-See `workflow.md` for step-by-step PixInsight processing adapted for .JPEG source.
+See `workflow.md` for detailed image processing steps.

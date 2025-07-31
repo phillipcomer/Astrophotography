@@ -1,7 +1,4 @@
-# received2180059319088617 – PixInsight Workflow (JPEG)
-
-## File Used
-**received_2180059319088617.jpeg**
+# received2180059319088617 – PixInsight Workflow
 
 ## Workflow
 - Clone image

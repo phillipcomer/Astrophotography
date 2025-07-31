@@ -1,7 +1,7 @@
 # 1753766528504 – PixInsight Workflow (JPEG)
 
 ## File Used
-**1753766528504.jpg**
+**1753766528504 1.jpg**
 
 ## Workflow
 - Clone image
